@@ -1,0 +1,15 @@
+Script started on 2026-02-06 02:18:33-05:00 [TERM="xterm-256color" TTY="/dev/pts/10" COLUMNS="120" LINES="46"]
+[?2004h]0;quinlant3@thur114-hp1: ~/CSCI271_Assignment2_TommyQuinlan[01;32mquinlant3@thur114-hp1[00m:[01;34m~/CSCI271_Assignment2_TommyQuinlan[00m$ java Fraction.[K[K[K[K[K[K[K[K[K[Kc [K[K Fration[K[K[K[K[Kaction
+[?2004l240/133
+-1/4
+Infinity
+NaN
+8/27
+9/4
+-Infinity
+7
+-4/3
+[?2004h]0;quinlant3@thur114-hp1: ~/CSCI271_Assignment2_TommyQuinlan[01;32mquinlant3@thur114-hp1[00m:[01;34m~/CSCI271_Assignment2_TommyQuinlan[00m$ exit
+[?2004lexit
+
+Script done on 2026-02-06 02:19:06-05:00 [COMMAND_EXIT_CODE="0"]

@@ -235,14 +235,14 @@ public class Fraction {
     *********************************************************************/
     Fraction pow(int n) {
 
-        Fraction r = new Fraction(1); // Result accumulator
+        Fraction r = new Fraction(1); // result comes in here
 
-        // Positive exponent
+        // For positive exponents
         if (n > 0)
             for (int i = 0; i < n; i++)
                 r = r.multiply(this);
 
-        // Negative exponent
+        // For negative exponents
         if (n < 0) {
             Fraction inverse = new Fraction(den, num);
             for (int i = 0; i > n; i--)
